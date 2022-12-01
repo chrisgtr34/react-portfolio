@@ -1,4 +1,4 @@
-footer {
+/* footer {
   flex: 0 0 auto;
   color: #fff4e3;
   background-color: #ffa45c;
@@ -10,4 +10,11 @@ footer {
 
 .icon:hover {
   color: tomato;
+} */
+body {
+  background-image: url('./images/image.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
+
