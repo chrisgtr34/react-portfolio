@@ -11,10 +11,13 @@
 .icon:hover {
   color: tomato;
 } */
+
 body {
-  background-image: url('./images/image.jpg');
+  background-image: url('./images/catapult610.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+
 
