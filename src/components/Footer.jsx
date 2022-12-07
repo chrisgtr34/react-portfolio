@@ -8,10 +8,10 @@ const Footer = () => {
     <footer>
 
       <div className="footer__socials">
-      <a href="https://www.linkedin.com/in/christopher-gomez-240229139/" target="_blank" rel="noreferrer" ><BsLinkedin /></a>
-      <a href="https://github.com/chrisgtr34" target="_blank" rel="noreferrer" ><FaGithub /></a>
+      <a style={{color:'white'}} href="https://www.linkedin.com/in/christopher-gomez-240229139/" target="_blank" rel="noreferrer" ><BsLinkedin /></a>
+      <a style={{color:'white'}} href="https://github.com/chrisgtr34" target="_blank" rel="noreferrer" ><FaGithub /></a>
       </div>
-      <div className="footer__copyright">
+      <div style={{color:'white'}} className="footer__copyright">
         <small>&copy; ET 2022. All rights reserved.</small>
       </div>
     </footer>
