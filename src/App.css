@@ -26,4 +26,9 @@ body {
   position: relative; 
   bottom: -130px;  
 }
+img.weather {
 
+  height:200px;
+  width: 400px;
+  margin-left: 30%;
+}
