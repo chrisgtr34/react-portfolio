@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.4906b809.css",
-    "main.js": "/react-portfolio/static/js/main.2bb2f99f.js",
+    "main.css": "/react-portfolio/static/css/main.c8ddfe7b.css",
+    "main.js": "/react-portfolio/static/js/main.19d0e86a.js",
+    "static/media/ecommerce.png": "/react-portfolio/static/media/ecommerce.373b4f1bf34154121e19.png",
+    "static/media/weather.png": "/react-portfolio/static/media/weather.98371cf5f2f86c7eab0c.png",
+    "static/media/portfolio image.png": "/react-portfolio/static/media/portfolio image.e72af5463aed44cec4a3.png",
     "index.html": "/react-portfolio/index.html",
-    "main.4906b809.css.map": "/react-portfolio/static/css/main.4906b809.css.map",
-    "main.2bb2f99f.js.map": "/react-portfolio/static/js/main.2bb2f99f.js.map"
+    "main.c8ddfe7b.css.map": "/react-portfolio/static/css/main.c8ddfe7b.css.map",
+    "main.19d0e86a.js.map": "/react-portfolio/static/js/main.19d0e86a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4906b809.css",
-    "static/js/main.2bb2f99f.js"
+    "static/css/main.c8ddfe7b.css",
+    "static/js/main.19d0e86a.js"
   ]
 }
