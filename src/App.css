@@ -28,7 +28,15 @@ body {
 }
 img.weather {
 
-  height:200px;
-  width: 400px;
+  height:300px;
+  width: 500px;
+  margin-left: 30%;
+}
+h2{
+  margin-left: 35%;
+}
+img.ecommerce {
+  height:300px;
+  width: 500px;
   margin-left: 30%;
 }
