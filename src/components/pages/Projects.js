@@ -1,6 +1,7 @@
 import React from 'react';
 import weather from '../../images/weather.png'
 import ecommerce from '../../images/ecommerce.png'
+import fitcal from '../../images/fitcal.png'
 
 
 export default function Projects() {
@@ -16,6 +17,14 @@ export default function Projects() {
       </h3>
       <br></br>
       <br></br>
+      <div>
+        <a href="https://fitcalxxii.herokuapp.com/" target="_blank" rel="noreferrer" >
+          <img src={fitcal} className="fitcal" alt="fitcal.png" />
+          <h2>
+            FitCal
+          </h2>
+        </a>
+      </div>
       <div>
         <a href="https://chrisgtr34.github.io/weather-dashboard/" target="_blank" rel="noreferrer" >
           <img src={weather} className="weather" alt="weather.png" />

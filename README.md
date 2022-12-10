@@ -1,3 +1,19 @@
+# Description
+ This challenge required us to build a portfolio showcasing our projects to future employers. This app requires you to run this app utlizing react.
+
+# Demo
+[Deployed App](https://chrisgtr34.github.io/react-portfolio/)
+
+[GitHub repository](https://github.com/chrisgtr34/react-portfolio)
+
+# E-mail Address
+  chrisgtr34@yahoo.com
+
+![alt screen shot](./src/images/Screenshot%202022-12-09%20at%205.10.07%20PM.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
