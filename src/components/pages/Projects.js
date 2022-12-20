@@ -2,6 +2,7 @@ import React from 'react';
 import weather from '../../images/weather.png'
 import ecommerce from '../../images/ecommerce.png'
 import fitcal from '../../images/fitcal.png'
+import gasncharge from '../../images/gasncharge.png'
 
 
 export default function Projects() {
@@ -39,6 +40,14 @@ export default function Projects() {
           <img src={ecommerce} className="ecommerce" alt="ecommerce.png" />
           <h2>
             Ecommerce 
+          </h2>
+        </a>
+      </div>
+      <div>
+        <a href="https://gasncharge.herokuapp.com/" target="_blank" rel="noreferrer" class name="gasncharge">
+          <img src={gasncharge} className="ecommerce" alt="gasncharge.png" />
+          <h2>
+            gasncharge 
           </h2>
         </a>
       </div>
