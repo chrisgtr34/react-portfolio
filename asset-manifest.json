@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.a6f9ea95.css",
-    "main.js": "/react-portfolio/static/js/main.6bda9d41.js",
-    "static/media/ecommerce.png": "/react-portfolio/static/media/ecommerce.373b4f1bf34154121e19.png",
-    "static/media/fitcal.png": "/react-portfolio/static/media/fitcal.bcadfd8d7644e1321d18.png",
-    "static/media/weather.png": "/react-portfolio/static/media/weather.98371cf5f2f86c7eab0c.png",
-    "static/media/portfolio image.png": "/react-portfolio/static/media/portfolio image.e72af5463aed44cec4a3.png",
-    "index.html": "/react-portfolio/index.html",
-    "main.a6f9ea95.css.map": "/react-portfolio/static/css/main.a6f9ea95.css.map",
-    "main.6bda9d41.js.map": "/react-portfolio/static/js/main.6bda9d41.js.map"
+    "main.css": "/portfolio/static/css/main.0ca73664.css",
+    "main.js": "/portfolio/static/js/main.151ecd78.js",
+    "static/media/gasncharge.png": "/portfolio/static/media/gasncharge.981ba569d4abc378b3fa.png",
+    "static/media/profile.png": "/portfolio/static/media/profile.3160f9029b077b93fb55.png",
+    "static/media/fitcal.png": "/portfolio/static/media/fitcal.40639de78f70202b7b6a.png",
+    "index.html": "/portfolio/index.html",
+    "main.0ca73664.css.map": "/portfolio/static/css/main.0ca73664.css.map",
+    "main.151ecd78.js.map": "/portfolio/static/js/main.151ecd78.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6f9ea95.css",
-    "static/js/main.6bda9d41.js"
+    "static/css/main.0ca73664.css",
+    "static/js/main.151ecd78.js"
   ]
 }
